@@ -1,0 +1,15 @@
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\bin\Debug\net6.0\MyEmployees_Infrastructure.deps.json
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\bin\Debug\net6.0\MyEmployees_Infrastructure.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\bin\Debug\net6.0\MyEmployees_Infrastructure.pdb
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\bin\Debug\net6.0\MyEmployees_Domain.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\bin\Debug\net6.0\MyEmployees_Domain.pdb
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.csproj.CopyComplete
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\refint\MyEmployees_Infrastructure.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\MyEmployees_Infrastructure.pdb
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Infrastructure\obj\Debug\net6.0\ref\MyEmployees_Infrastructure.dll

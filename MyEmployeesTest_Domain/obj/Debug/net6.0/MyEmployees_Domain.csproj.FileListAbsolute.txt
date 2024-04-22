@@ -1,0 +1,11 @@
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\bin\Debug\net6.0\MyEmployees_Domain.deps.json
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\bin\Debug\net6.0\MyEmployees_Domain.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\bin\Debug\net6.0\MyEmployees_Domain.pdb
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.AssemblyInfo.cs
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\refint\MyEmployees_Domain.dll
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\MyEmployees_Domain.pdb
+C:\Users\Gabriel.Aya\source\repos\MyEmployeesTest\MyEmployeesTest_Domain\obj\Debug\net6.0\ref\MyEmployees_Domain.dll
